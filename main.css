@@ -2,10 +2,11 @@
 * {
     padding: 0;
     margin: 0;
+    
 }
 
-.background {
-    background-image: url('imgs/nOtErdI.jpg')
+html {
+    background-image: url('imgs/ttt2.jpg');
 }
 
 .title {
