@@ -2,13 +2,10 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Itim', cursive;
 }
 
 .background {
-    background-color: #12181B;
-    height: 100vh;
-    padding-top: 1px;
+    background-image: url('imgs/nOtErdI.jpg')
 }
 
 .title {
@@ -58,7 +55,7 @@
 }
 
 .playerO {
-    color: #498AFB;
+    color: red;
 }
 
 .controls {
